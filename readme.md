@@ -19,7 +19,7 @@ Each recipe includes a list of ingredients, preparation steps, and a photo of th
 
 ---
 
-## 🛠 Technologies
+## Technologies
 - HTML, CSS, JavaScript
 - Optional: React, API integration for recipes
 - Responsive design for mobile and desktop  
